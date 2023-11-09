@@ -1,0 +1,20 @@
+Added Component: Designator=D1(LED-0 5mm BLUE)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DS1(7SEGD)
+Add component (AddParameter): Name = "Value"; Value = "LED 7D SEG"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetD1_2 Pin=DS1-14
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component DS1 7SEG-D
+Add Class Member: Failed to add class member : Component IC1 Initial Condition
+Add Class Member: Failed to add class member : Component R1 Resistor
